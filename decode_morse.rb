@@ -39,7 +39,7 @@
 }
 
 def decode_char(morse_char)
- @morse_dict[morse_char]
+  @morse_dict[morse_char]
 end
 
 def decode_word(morse_word)

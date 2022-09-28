@@ -61,11 +61,11 @@ git clone https://github.com/VaneCode/metrics-webapp.git
 - Twitter: [@BonitoNarvaez](https://twitter.com/BonitoNarvaez)
 - LinkedIn: [Vanessa Bonito Narváez](https://www.linkedin.com/in/vanessa-bonito-narvaez/)
 
-👤 **Author2**
+👤 **Apuabi Titilope**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Eternalgratis](https://github.com/Eternalgratis)
+- Twitter: [@eternalgratis](https://twitter.com/eternalgratis)
+- LinkedIn: [Apuabi Titilope](https://www.linkedin.com/in/titilope-apuabi/)
 
 👤 **Author3**
 

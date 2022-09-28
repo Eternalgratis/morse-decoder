@@ -48,5 +48,14 @@ def decode_word(morse_word)
   "#{word} "
 end
 
-puts decode_char('----.')
+def decode(morse_msg)
+  msg = ''
+  morse_msg
+    .split('   ').map do |word|
+      msg += decode_word(word)
+    end
+  msg
+end
 
+puts decode('-- -.--   -. .- -- .')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')

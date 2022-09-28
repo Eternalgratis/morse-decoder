@@ -67,11 +67,12 @@ git clone https://github.com/VaneCode/metrics-webapp.git
 - Twitter: [@eternalgratis](https://twitter.com/eternalgratis)
 - LinkedIn: [Apuabi Titilope](https://www.linkedin.com/in/titilope-apuabi/)
 
-👤 **Author3**
+👤 **Ijeoma Odinko**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ijeomaodinko](https://github.com/ijeomaodinko)
+- Twitter: [@pureblog09](https://twitter.com/iodinko)
+- LinkedIn: [ijeomaodinko](https://linkedin.com/in/ijeomaodinko)
+
 
 👤 **Author4**
 

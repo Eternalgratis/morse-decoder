@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# Project Name
+# Decode Morse
 
-> Description the project.
+> This project built with Ruby has several methods that let anyone decode a string of Morse code to text easily.
 
 
 ## Built With
@@ -72,13 +72,6 @@ git clone https://github.com/VaneCode/metrics-webapp.git
 - GitHub: [@ijeomaodinko](https://github.com/ijeomaodinko)
 - Twitter: [@pureblog09](https://twitter.com/iodinko)
 - LinkedIn: [ijeomaodinko](https://linkedin.com/in/ijeomaodinko)
-
-
-👤 **Author4**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

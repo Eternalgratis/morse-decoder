@@ -1,4 +1,4 @@
-@morse_dictionary = Hash [
+@morse_dict = {
   '.-' => 'A',
   '-...' => 'B',
   '-.-.' => 'C',
@@ -36,4 +36,11 @@
   '---..' => '8',
   '----.' => '9',
   '-----' => '0'
-]
+}
+
+def decode_char(morse_char)
+  decode = @morse_dict[morse_char]
+  decode
+end
+
+puts decode_char('----.')
